@@ -1,0 +1,12 @@
+#ideas
+
+data wrangling
+sentiment analysis
+loess
+logistic regression
+--gini
+web access
+game concept
+
+#option
+gbm/deep learning
